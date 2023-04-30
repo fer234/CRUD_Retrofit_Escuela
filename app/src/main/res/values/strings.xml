@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CRUD Retrofit Escuela</string>
+    <string name="opcion_menu1">Alumnos</string>
+    <string name="opcion_menu2">Profesores</string>
+    <string name="mensaje_1">Se seleccionó el CRUD de Alumnos</string>
+    <string name="mensaje_2">Se seleccionó el CRUD de Profesores</string>
+    <string name="mensaje_icono_telefono">Se seleccionó el CRUD de Alumnos</string>
+    <string name="mensaje_icono_camara">Se seleccionó el CRUD de Profesores</string>
+</resources>

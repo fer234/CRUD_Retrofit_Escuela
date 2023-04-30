@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "935788120523",
+    "project_id": "kotlin-firebase-a00bf",
+    "storage_bucket": "kotlin-firebase-a00bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935788120523:android:92b563ed69dc02c7144e4e",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935788120523-niemtuh61mpg93vphld6bju2htnvsjvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbpkKyOr2-2UaUec53nBHdjRF5guUYi6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935788120523-niemtuh61mpg93vphld6bju2htnvsjvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935788120523:android:2ed00f525eba9b83144e4e",
+        "android_client_info": {
+          "package_name": "edu.udb.crud_retrofit_escuela"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935788120523-niemtuh61mpg93vphld6bju2htnvsjvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbpkKyOr2-2UaUec53nBHdjRF5guUYi6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935788120523-niemtuh61mpg93vphld6bju2htnvsjvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
